@@ -1,6 +1,6 @@
 # .bashrc
 
-# User specific aliases and functions
+##### User specific aliases and functions
 
 alias rm='rm -i'
 alias cp='cp -i'
